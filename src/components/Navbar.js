@@ -24,7 +24,7 @@ const Navbar = class extends React.Component {
             <Icon.Phone size={26}/>
             <div>Contact</div>
           </Link>
-          <a className="btn pt-2" rel="noopener noreferrer" href="https://portal.utilitydistrict.com/5670" target="_blank">
+          <a className="btn pt-2" rel="noopener noreferrer" href="https://pay.streampay.streamlinepayments.com/#/9NS6AkFfIT8dLg7uhcUIjYkdC6hVKXHxRnUOyfJ%2525252bsn%2525252fcHji63vN2DQ%2525253d%2525253d/BbhCLaUyDkUdLg7uhcUIjYkdC6hVKXHxRnUOyfJ%2525252bsn%2525252fcHji63vN2DQ%2525253d%2525253d/pay" target="_blank">
             <Icon.DollarSign size={26}/>
             <div>Bill Pay</div>
           </a>
@@ -49,7 +49,7 @@ const Navbar = class extends React.Component {
             <Link className="btn btn-link" activeClassName="active" to="/contact">
               Contact
             </Link>
-            <a className="btn btn-link" rel="noopener noreferrer" href="https://portal.utilitydistrict.com/5670" target="_blank">
+            <a className="btn btn-link" rel="noopener noreferrer" href="https://pay.streampay.streamlinepayments.com/#/9NS6AkFfIT8dLg7uhcUIjYkdC6hVKXHxRnUOyfJ%2525252bsn%2525252fcHji63vN2DQ%2525253d%2525253d/BbhCLaUyDkUdLg7uhcUIjYkdC6hVKXHxRnUOyfJ%2525252bsn%2525252fcHji63vN2DQ%2525253d%2525253d/pay" target="_blank">
               Bill Pay&nbsp;<Icon.ExternalLink size={16}/>
             </a>
           </section>
