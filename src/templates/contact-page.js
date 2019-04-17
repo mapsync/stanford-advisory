@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import * as Icon from 'react-feather';
 
-export const ContactPageTemplate = ({ name, address, city_state_zip, phone, fax, email }) => {
+export const ContactPageTemplate = ({ name, address, mailing_address, city_state_zip, phone, fax, email, hours }) => {
   return (
     <div>
       <div className="container container-main grid-md">
@@ -20,12 +20,30 @@ export const ContactPageTemplate = ({ name, address, city_state_zip, phone, fax,
         </div>
         <div className="card">
           <div className="card-header">
+            Mailing Address
+          </div>
+          <div className="card-body">
+            {name}<br />
+            {mailing_address}<br />
+            {city_state_zip}
+          </div>
+        </div>
+        <div className="card">
+          <div className="card-header">
             Phone
           </div>
           <div className="card-body">
             T: {phone}<br />
             F: {fax}<br />
             E: {email}
+          </div>
+        </div>
+        <div className="card">
+          <div className="card-header">
+            Hours
+          </div>
+          <div className="card-body">
+            {hours}
           </div>
         </div>
       </div>
@@ -51,12 +69,14 @@ const ContactPage = ({ data }) => {
   return (
     <Layout>
       <ContactPageTemplate
-        name={frontmatter.name} 
+        name={frontmatter.name}
         address={frontmatter.address}
+        mailing_address={frontmatter.mailing_address}
         city_state_zip={frontmatter.city_state_zip}
         phone={frontmatter.phone}
         fax={frontmatter.fax}
         email={frontmatter.email}
+        hours={frontmatter.hours}
       />
     </Layout>
   )
@@ -75,10 +95,12 @@ export const contactPageQuery = graphql`
       frontmatter {
         name,
         address,
+        mailing_address,
         city_state_zip,
         phone,
         fax,
-        email
+        email,
+        hours
       }
     }
   }
