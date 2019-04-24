@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Shut Off - Notification
 date: 2019-04-24T14:30:03.295Z
-description: 'Shut Off Day '
+description: Shut Off Day
 ---
 **Bills are due by 10 a.m. this morning.**
 
