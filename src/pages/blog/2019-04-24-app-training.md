@@ -8,3 +8,5 @@ description: Stanford Water Training
 This is not an emergency. Just learning how to use the system.
 
 ![](/img/tommytentpeg.jpg)
+
+[See Map of Area](/map?layer=Advisory&feature=1)
