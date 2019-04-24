@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Shut Off - Notification '
+title: Shut Off - Notification
 date: 2019-04-24T14:30:03.295Z
 description: 'Shut Off Day '
 ---
