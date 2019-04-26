@@ -1,7 +1,7 @@
 ---
 templateKey: contact-page
 title: Contact
-name: Stanford Water Works
+name: Stanford Waterworks
 address: 842 East Main Street
 mailing_address: P.O. BOX 45
 city_state_zip: Stanford, KY 40484
