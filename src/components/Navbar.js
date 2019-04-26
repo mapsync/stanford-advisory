@@ -9,7 +9,7 @@ const Navbar = class extends React.Component {
      <div>
        <div className="tab-menu-container show-xs">
         <div className="tab-menu">
-          <div className="client-name">Stanford Water Works</div>
+          <div className="client-name">Stanford Water<span>works</span></div>
           <div className="btn-group btn-group-block">
             <Link className="btn pt-2" activeClassName="active" to="/">
               <Icon.AlertTriangle size={26}/>
@@ -34,7 +34,7 @@ const Navbar = class extends React.Component {
         </div>
       </div>
       <div className="container grid-xs hide-xs">
-        <div className="client-name">Stanford Water Works</div>
+        <div className="client-name">Stanford Water<span>works</span></div>
         <header className="navbar">
           <section className="navbar-section text-right">
             <Link className="btn btn-link" activeClassName="active" to="/">
