@@ -19,6 +19,4 @@ If you have any additional questions about our new app, please call us at 606-36
 
 .
 
-.
-
 Please note that if you have any questions about your trash, please direct those to City Hall at 606-365-4500.
