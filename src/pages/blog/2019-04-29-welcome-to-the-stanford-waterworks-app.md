@@ -5,6 +5,8 @@ date: 2019-04-29T15:04:59.836Z
 draft: false
 description: Thank you for downloading our new app! We hope that this will be....
 ---
+![](/img/welcome.png)
+
 Thank you for downloading our new app! We hope that this will be an added benefit to our customers. You will receive notifications on your device any time that we send an alert out so please make sure the notifications to this app is on! We believe that this new app will help us connect to our customers and get information out in a new, faster way. 
 
 Some examples of the alerts that you may receive may be as follows: boil water advisories for the area, water or sewer construction area alerts, notifications of leaks in the area, hydrant flushing dates and areas, as well as reminders of bill due dates and shut off dates. 
