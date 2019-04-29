@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Welcome to the Stanford Waterworks App
 date: 2019-04-29T15:04:59.836Z
-draft: true
+draft: false
 ---
 ![](/img/welcome.png)
 
