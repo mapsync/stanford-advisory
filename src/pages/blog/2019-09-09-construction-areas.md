@@ -6,10 +6,10 @@ description: • Water line system upgrade project - construction areas listed b
 ---
 Current Construction Areas:
 
+As of 9/9/19, crews are currently working on upgrading water lines on Somerset Street, Lee Drive, and east main/78 this week. 
 
 
-As of 9/9/19, crews are currently working on upgrading water lines on Somerset Street and Lee Drive this week. Once construction crews are finished with Lee Drive, they will be proceeding to the Indian Trails area. 
 
-
+Once construction crews are finished with Lee Drive, they will be proceeding to the Indian Trails area. 
 
 Please slow down and be cautious in these areas.
