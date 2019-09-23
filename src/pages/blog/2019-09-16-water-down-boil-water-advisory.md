@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-title: 'Water Down & Boil Water Advisory '
+title: 'Boil Water Advisory '
 date: 2019-09-16T20:57:38.248Z
+description: Boil water advisory for Indian Trails (Chickasaw & Arrowhead)
 ---
-Water services may be out on Pettus Court due to a water line break. There will be a boil water advisory for this area. We will have water back on once the leak is fixed.
+A boil water advisory is in effect for Chickasaw & Arrowhead until further notice.
