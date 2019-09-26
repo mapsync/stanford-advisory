@@ -6,10 +6,6 @@ description: • Water line system upgrade project - construction areas listed b
 ---
 # Current Construction Areas:
 
-
-
-* As of 9/16/19 Construction crews are beginning work on Indian Trails. 
-
-
+* As of 9/26/19 Construction crews are working on Martin Luther King Street & beginning construction on Edgewood.
 
 Please slow down and be cautious in these areas.
