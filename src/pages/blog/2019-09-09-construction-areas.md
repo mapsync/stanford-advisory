@@ -6,6 +6,6 @@ description: • Water line system upgrade project - construction areas listed b
 ---
 # Current Construction Areas:
 
-* As of 9/26/19 Construction crews are working on Martin Luther King Street & beginning construction on Edgewood.
+* As of 9/26/19 Construction crews are working on Southwood. 
 
 Please slow down and be cautious in these areas.
