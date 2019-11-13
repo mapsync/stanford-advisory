@@ -6,6 +6,16 @@ description: • Water line system upgrade project - construction areas listed b
 ---
 # Current Construction Areas:
 
-* As of 10/15/19 Construction crews are working on Southwood. 
+* As of 11/13/19 Construction crews are working: 
+
+Entrance to O'Reillys 
+
+Darst Street/78 
+
+Oakview/150
+
+Cutoff Street
+
+
 
 Please slow down and be cautious in these areas.
